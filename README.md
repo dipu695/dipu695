@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dipu 💻 C++ Programmer | Learner | Tech Enthusiast 🎓 Studying Computer Science & Engineering 🏫 Pabna University of Science and Technology
+👋 Hi, I'm Dipu |🎓 Studying Computer Science & Engineering 🏫 Pabna University of Science and Technology
 
 
 ## 🌐 Socials:
