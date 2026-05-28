@@ -1,8 +1,13 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dipu+Kumer+Paul" alt="Dipu Kumer Paul" /></a>
-  <a href="https://github.com/dipu695"><img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Enthusiast;CSE+Student+%40+PUST;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&height=60&lines=Dipu+Kumer+Paul" alt="Dipu Kumer Paul" />
+  </a>
+  <br/>
+  <a href="https://github.com/dipu695">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&random=false&width=500&height=45&lines=AI+%2F+ML+Enthusiast;CSE+Student+%40+PUST;Always+learning+new+things" />
+  </a>
 </p>
 
 </div>
