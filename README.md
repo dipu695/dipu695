@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Dipu+Kumer+Paul;CSE+Student+at+%40+PUST)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hi+%F0%9F%91%8B+I'm+Dipu+Kumer+Paul;CSE+Student+%40+PUST)
 
 </div>
 
@@ -8,7 +8,7 @@
 <h4 align="center"> Connect with me on LinkedIn <a href="https://www.linkedin.com/in/dipu-kumer-paul-b41087333/">linkedin.com/in/dipu-kumer-paul</a> </h4>
 <h4 align="center"> Check out my GitHub repos <a href="https://github.com/dipu695?tab=repositories">github.com/dipu695</a> </h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dipu695)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <a href="https://github.com/dipu695"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=dipu695&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="dipu695" /></picture></a>
