@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=3&section=header" />
 </p>
 
 <p align="center">
@@ -17,7 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dipu695&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=6AD3F7&fire=a78bfa&currStreakLabel=f75c7e" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0d1117&height=3&section=footer" />
 </p>
 
 <h3 align="center">🎓 Studying Computer Science & Engineering 🏫 Pabna University of Science and Technology</h3>
