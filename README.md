@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&random=false&width=500&height=45&lines=Welcome+to+my+Profile+%F0%9F%91%8B" alt="Welcome" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=99999&color=a78bfa&center=true&vCenter=true&random=false&width=500&height=45&lines=Welcome+to+my+Profile" alt="Welcome" />
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&height=60&lines=Dipu+Kumer+Paul" alt="Dipu Kumer Paul" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=6AD3F7&center=true&vCenter=true&random=false&width=500&height=60&lines=Dipu+Kumer+Paul" alt="Dipu Kumer Paul" />
   </a>
   <br/>
   <a href="https://github.com/dipu695">
