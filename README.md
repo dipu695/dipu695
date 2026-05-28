@@ -1,6 +1,6 @@
-### Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dipu%20Kumer%20Paul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=👋%20CSE%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20PUST&descAlignY=60&descSize=18" />
 
-<h3 align="center">👋 Hi, I'm Dipu 🎓 Studying Computer Science & Engineering 🏫 Pabna University of Science and Technology</h3>
+<h3 align="center">🎓 Studying Computer Science & Engineering 🏫 Pabna University of Science and Technology</h3>
 <h4 align="center"> Connect with me on LinkedIn <a href="https://www.linkedin.com/in/dipu-kumer-paul-b41087333/">linkedin.com/in/dipu-kumer-paul</a> </h4>
 <h4 align="center"> Check out my GitHub repos <a href="https://github.com/dipu695?tab=repositories">github.com/dipu695</a> </h4>
 
@@ -206,3 +206,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipu695/dipu695/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/dipu695/dipu695/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
