@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hi+,+I'+m+Dipu+Kumer+Paul;CSE+Student+at+PUST)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Welcome;Hi+,+I'm+Dipu+Kumer+Paul;CSE+Student+at+PUST)
 
 </div>
 
