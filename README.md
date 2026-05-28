@@ -35,10 +35,10 @@
 
 <br>
 
-- 😄 I have interests in **AI / Machine Learning**
-- 🔭 I'm currently doing my **BSc in Computer Science & Engineering**
-- 🌱 I'm currently learning **Python**
-- 👯 I'm looking to collaborate on **AI / ML Projects**
+-  I have interests in **AI / Machine Learning**
+-  I'm currently doing my **BSc in Computer Science & Engineering**
+-  I'm currently learning **Python**
+-  I'm looking to collaborate on **AI / ML Projects**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dipu-kumer-paul-b41087333/" alt="LinkedIn" title="LinkedIn"><img width="32px" src="https://img.icons8.com/color/48/linkedin.png"/></a>
