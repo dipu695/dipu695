@@ -73,22 +73,22 @@
     <a href="https://github.com/search?q=user%3Adipu695+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Adipu695+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Adipu695+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adipu695+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <!-- <a href="https://github.com/search?q=user%3Adipu695+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Adipu695+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
 <p>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+    <!-- <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -104,13 +104,13 @@
 ### 💻 GitHub Profile Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dipu695's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dipu695&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="dipu695's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dipu695&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" height="180px"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dipu695's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu695&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="dipu695's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu695&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" height="180px"/>
   </a>
 </p>
-
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dipu695's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dipu695&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
