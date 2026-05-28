@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=1800&pause=99999&color=a78bfa&center=true&vCenter=true&random=false&width=500&height=45&lines=Welcome+to+my+Profile" alt="Welcome" />
   </a>
@@ -10,6 +14,10 @@
   <a href="https://github.com/dipu695">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=1500&pause=2000&color=f75c7e&center=true&vCenter=true&random=false&width=500&height=45&lines=AI+%2F+ML+Enthusiast...;CSE+Student+%40+PUST...;Always+learning+new+things..." />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling" />
 </p>
 
 <h3 align="center">🎓 Studying Computer Science & Engineering 🏫 Pabna University of Science and Technology</h3>
