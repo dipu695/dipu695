@@ -171,6 +171,11 @@
 ## 📊 3D Contribution Graph
 ![](https://raw.githubusercontent.com/dipu695/dipu695/main/profile-3d-contrib/profile-night-rainbow.svg)
 
+## 📈 2D Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu695&theme=react-dark&hide_border=true&area=true&custom_title=Dipu%27s%20Contribution%20Graph" width="95%" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipu695/dipu695/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipu695/dipu695/output/github-contribution-grid-snake.svg" />
