@@ -25,13 +25,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/dipu-kumer-paul-b41087333/" alt="LinkedIn" title="LinkedIn"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.linkedin.com/in/dipu-kumer-paul-b41087333/" alt="LinkedIn" title="LinkedIn"><img width="32px" src="https://img.icons8.com/color/48/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/DipuKumerPaul.CSE.PUST/"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://www.facebook.com/DipuKumerPaul.CSE.PUST/" alt="Facebook" title="Facebook"><img width="32px" src="https://img.icons8.com/color/48/facebook-new.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/dipukumerpaul.cse.pust"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://www.instagram.com/dipukumerpaul.cse.pust" alt="Instagram" title="Instagram"><img width="32px" src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:dipupaul695@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="mailto:dipupaul695@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 </p>
 
 <br/>
