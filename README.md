@@ -1,6 +1,8 @@
-<div align="center">
-
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&random=false&width=500&height=45&lines=Welcome+to+my+Profile+%F0%9F%91%8B" alt="Welcome" />
+  </a>
+  <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&height=60&lines=Dipu+Kumer+Paul" alt="Dipu Kumer Paul" />
   </a>
@@ -9,8 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f75c7e&center=true&vCenter=true&random=false&width=500&height=45&lines=AI+%2F+ML+Enthusiast;CSE+Student+%40+PUST;Always+learning+new+things" />
   </a>
 </p>
-
-</div>
 
 <h3 align="center">🎓 Studying Computer Science & Engineering 🏫 Pabna University of Science and Technology</h3>
 <h4 align="center"> Connect with me on LinkedIn <a href="https://www.linkedin.com/in/dipu-kumer-paul-b41087333/">linkedin.com/in/dipu-kumer-paul</a> </h4>
