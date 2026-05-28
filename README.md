@@ -1,6 +1,9 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Welcome;Hi+,+I'm+Dipu+Kumer+Paul;CSE+Student+at+PUST)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dipu+Kumer+Paul" alt="Dipu Kumer Paul" /></a>
+  <a href="https://github.com/dipu695"><img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Enthusiast;CSE+Student+%40+PUST;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 </div>
 
@@ -22,10 +25,10 @@
 - 🌱 I'm currently learning **Python**
 - 👯 I'm looking to collaborate on **AI / ML Projects**
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dipu+Kumer+Paul" alt="Dipu Kumer Paul" /></a>
   <a href="https://github.com/dipu695"><img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Enthusiast;CSE+Student+%40+PUST;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+</p> -->
 
 <!-- Social icons section -->
 <p align="center">
