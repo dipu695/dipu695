@@ -68,7 +68,7 @@
 
 ### 👨‍💻 Programming and Markup Languages
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
