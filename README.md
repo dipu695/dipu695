@@ -136,7 +136,7 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="65" height="65" alt="Dart" />
+       <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="Dart" width="65" height="65"/>
       <br>Dart
     </td>
     <td align="center" width="96">
