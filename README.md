@@ -103,13 +103,9 @@
 
 ### 💻 GitHub Profile Stats
 <p align="center">
-  <img alt="dipu695's Github Stats" 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/?username=dipu695&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" 
-    height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=dipu695&theme=dark&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" height="180px"/>
   &nbsp;&nbsp;
-  <img alt="dipu695's Top Languages" 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=dipu695&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" 
-    height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu695&theme=github_dark" height="180px"/>
 </p>
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
