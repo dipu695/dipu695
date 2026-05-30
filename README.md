@@ -132,11 +132,11 @@
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="65" height="65" alt="Dart" />
       <br>Dart
     </td>
     <td align="center" width="96">
