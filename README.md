@@ -103,13 +103,13 @@
 
 ### 💻 GitHub Profile Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dipu695's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dipu695&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" height="180px"/>
-  </a>
+  <img alt="dipu695's Github Stats" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/?username=dipu695&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" 
+    height="180px"/>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="dipu695's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu695&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" height="180px"/>
-  </a>
+  <img alt="dipu695's Top Languages" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=dipu695&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&border_radius=10" 
+    height="180px"/>
 </p>
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
